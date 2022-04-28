@@ -1,5 +1,3 @@
-
-
 * {
 	font-family: 'palatino lynotype', serif;;
 }
@@ -36,8 +34,8 @@ h6 {
 #heavy {
 	display: inline-block;
 	border-radius: 150px;
-	height: 250px;
-	width: 250px;
+	height: 200px;
+	width: 200px;
 	border: solid;
 	border-color: lightgreen;
 }
