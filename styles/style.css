@@ -2,21 +2,35 @@
 	font-family: 'palatino lynotype', serif;;
 }
 
+#navzandro {
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+}
+#navbarNav {
+	letter-spacing: ;
+}
+
 html {
 	scroll-behavior: smooth;
 }
 
 h1 {
 	font-weight: 	bold;
+	font-size: 30px;
 }
 
 h3 {
 	font-weight: bold;
 	color: slategray;
+	font-size: 20px;
 }
 
 h5 {
 	font-weight: bold;
+	font-size: 15px;
 }
 
 h6 {
@@ -33,9 +47,20 @@ h6 {
 
 #heavy {
 	display: inline-block;
-	border-radius: 150px;
-	height: 200px;
-	width: 200px;
+	border-radius: 200px;
 	border: solid;
 	border-color: lightgreen;
+}
+#bgcontact {
+	background-color: lightyellow;
+}
+
+iframe {
+	display: inline-block;
+	width: 80vw;
+	height: 60vh;
+	max-width: 430px;
+	max-height: 360px;
+	border: solid 1px gray;
+	box-shadow: 2px 2px 2px silver;
 }
